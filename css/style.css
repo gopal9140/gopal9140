@@ -1,0 +1,33 @@
+#navbarSupportedContent {
+  position: absolute;
+  right: 0;
+}
+.navbar {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 100;
+}
+
+.employee-list {
+  margin-top: 80px;
+}
+.add-record {
+  margin-bottom: 10px;
+}
+.response-msg {
+  width: 31% !important;
+  right: 5 !important;
+  top: 18% !important;
+  position: absolute !important;
+}
+.profile {
+  width: 72px;
+}
+#myInput {
+  position: absolute;
+  right: 1%;
+}
+.img-thumbnail {
+  border-radius: 50% !important;
+  max-width: 50% !important;
+}
